@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "b6001736-4a81-f8f2-dae9-49bdbc2b7c54",
+  "instructors": {
+    "content": [
+      "7e99c171-2da4-1fdc-a984-68ab5291d71d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dcced4a0-9bcc-f262-0e25-22bf6b1b3d26",
+    "website": "18-906-algebraic-topology-ii-spring-2020"
+  },
+  "course_title": "Algebraic Topology II",
+  "course_description": "This is the second part of the two-course series on algebraic topology. Topics include basic homotopy theory, obstruction theory, classifying spaces, spectral sequences, characteristic classes, and Steenrod operations.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.906",
+  "course_image_thumbnail": {
+    "content": "17b3707e-e9ef-2a15-e60a-584743a65560",
+    "website": "18-906-algebraic-topology-ii-spring-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "c67429ea-d244-415c-83dc-5e4c8011f796",
+  "site_short_id": "18.906-spring-2020",
+  "title": "Course Metadata"
+}
